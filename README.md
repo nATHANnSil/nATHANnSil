@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nATHANnSil. My real name is Nathan Oliveira, I'm 19 years old and I'm from Belo Horizonte, Brazil;
+- 👋 Hello There! I’m @nATHANnSil. My real name is Nathan Oliveira, I'm 19 years old and I'm from Belo Horizonte, Brazil;
 - 👀 I’m interested in several things for exemple: airplanes (comercial airplanes), cars (super and hypercars), environment (green energy), games (FPS and races) 
 and technologies (programming) ; 
 - 🌱 I’m currently learning Java, and improving my knowledge in C;
