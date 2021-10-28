@@ -1,8 +1,7 @@
-- 👋 Hello There! I’m @nATHANnSil (nATHANn Sil is my gamertag on Xbox). My real name is Nathan Oliveira, I'm 19 years old and I'm from Belo Horizonte, Brazil;
-- 👀 I have interest in several things for exemple: airplanes (comercial airplanes), cars (super and hypercars), environment (green energy), games (FPS and races) 
-and technologies (programming) ; 
-- 🌱 I’m currently learning Java, and improving my knowledge in C;
-- 📫 How to reach me: you can find me on LinkedIn (https://www.linkedin.com/in/nathan-o-982131145), or you can send me an e-mail (nathanoliveira2002@hotmail.com).
+- 👋 Olá! Eu sou o @nATHANnSil (nATHANn Sil é a minha gamertag no Xbox). Meu nome verdadeiro é Nathan Oliveira. Eu tenho 19 anos e sou de Belo Horizonte, Brasil;
+- 👀 Eu tenho interesse e curiosidade em vários assuntos, mas principalmente em tecnologia (IoT), aviões comerciais, carros (super e hipercarros), meio ambiente, principalmente energia limpa, e jogos, principalmente FPS (COD) e Corrida (Forza); 
+- 🌱 Atualmente estou aprendendo Java;
+- 📫 Você pode me encontrar no LinkedIn - https://www.linkedin.com/in/nathan-o-982131145, ou é só me enviar um email - nathanoliveira2002@hotmail.com (tenho preferência ao email).
 
 <!---
 nATHANnSil/nATHANnSil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
