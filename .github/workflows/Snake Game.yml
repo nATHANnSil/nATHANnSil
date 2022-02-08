@@ -1,11 +1,4 @@
-#Repositorio dos arquivos:
 
-- uses: Platane/snk@master
-  id: snake-gif
-with:
-     github_user_name: nATHANnSil
-     gif_out_path: dist/git-hub-contribution-grid-snake.gif
-     svg_out_path: dist/git-hub-contribution-grid-snake.svg
 
 # Nome da Actions:  
 name: Snake Game
