@@ -8,7 +8,10 @@ nATHANnSil/nATHANnSil is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathannsil&layout=compact)](https://github.com/nathannsil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathannsil)](https://github.com/nathannsil/github-readme-stats)
+![Snake animation](https://github.com/nathannsil/nathannsil/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
