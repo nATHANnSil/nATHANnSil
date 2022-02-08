@@ -1,8 +1,9 @@
 - 👋Hi! I'm Nathan! I'm 20 years old and I'm from Belo Horizonte - Minas Gerais - Brazil.
-- 👀I have interest and curiosity in several things, including: vehicles (airplanes ✈ and cars 🚗), environment, and games specially FPS games (like Call of Duty) and Racing (like Forza Horizon);
+- 👀I have interest and curiosity in several things, including: vehicles (airplanes ✈ and cars 🚗), environment, and games, specially FPS games (like Call of Duty) and Racing (like Forza Horizon);
 - 👨‍💻 Currentlym I'm learning Java, C# and .NET.
 - 🐱‍💻If you want talk to me, the ways to do it are below.
-- 📆I intend to work as a Game Developer in Canada, in some years!
+- 📆I intend to work as a Game Developer 🎮 in Canada , in some years!
+
 
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
