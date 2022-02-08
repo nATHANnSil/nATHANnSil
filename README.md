@@ -1,6 +1,6 @@
 - 👋Hi! I'm Nathan! I'm 20 years old and I'm from Belo Horizonte - Minas Gerais - Brazil 🇧🇷.
 - 👀I have interest and curiosity in several things, including: vehicles (airplanes ✈ and cars 🚗), environment, and games, specially FPS games (like Call of Duty) and Racing (like Forza Horizon), and of course, computer programming.
-- 👨‍💻 Currentlym I'm learning Java, C# and .NET.
+- 👨‍💻 Currently I'm learning Java, C# and .NET.
 - 🐱‍💻If you want talk to me, the ways to do it are below.
 - 📆I intend to work as a Game Developer 🎮 in Canada 🇨🇦, in some years!
 
