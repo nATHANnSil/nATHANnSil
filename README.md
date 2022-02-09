@@ -34,7 +34,7 @@
  <a href="nATHANn Sil" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a> 
  
  
- ## 🐱‍💻My PC Specs
+ <!--- ## 🐱‍💻My PC Specs
  
  DESKTOP: Custom
 -   Processor: Intel Core i3-10100F (3.6GHz)
@@ -47,7 +47,7 @@
 -   Mouse: Logitech G203 
 -   Keyboard: Target TEC-9 RGB
 -   OS: Windows 10
- 
+ ---> 
 <!---
 nATHANnSil/nATHANnSil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
