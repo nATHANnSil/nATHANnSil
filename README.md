@@ -2,7 +2,7 @@
 - 👀I have interest and curiosity in several things, including: vehicles (airplanes ✈ and cars 🚗), environment, and games, specially FPS games (like Call of Duty) and Racing (like Forza Horizon), and of course, computer programming.
 - 👨‍💻 Currently I'm learning Java, C# and .NET.
 - 🐱‍💻If you want talk to me, the ways to do it are below.
-- 📆I intend to work as a Game Developer 🎮 in Canada 🇨🇦, in some years!
+- 📆I intend to work as a Developer 🎮 in Canada 🇨🇦, in some years!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathannsil)](https://github.com/nathannsil/github-readme-stats)
 
