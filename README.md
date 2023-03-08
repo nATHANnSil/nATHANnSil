@@ -1,8 +1,8 @@
-- 👋Hi! I'm Nathan! I'm 20 years old and I'm from Belo Horizonte - Minas Gerais - Brazil 🇧🇷.
-- 👀I have interest and curiosity in several things, including: vehicles (airplanes ✈ and cars 🚗), environment, and games, specially FPS games (like Call of Duty) and Racing (like Forza Horizon), and of course, computer programming.
-- 👨‍💻 Currently I'm learning Java, C# and .NET.
+- 👋Hello There! I'm Nathan! I'm 21 years old and I'm from Belo Horizonte - Minas Gerais - Brazil 🇧🇷.
+- 👀 I have interest and curiosity in several things, including: airplanes ✈ ,games 🎮 (specially FPS and Racing games), and programming. You can ask me about those things!
+- 👨‍💻 Currently I'm learning Java and Java Script.
 - 🐱‍💻If you want talk to me, the ways to do it are below.
-- 📆I intend to work as a Developer 🎮 in Canada 🇨🇦, in some years!
+- 📆I want to work as a Gamer Developer in Canada 🇨🇦, in some years!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathannsil)](https://github.com/nathannsil/github-readme-stats)
 
@@ -10,11 +10,9 @@
  <a href="https://github.com/nATHANnSil" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a> 
  <a href="https://github.com/nATHANnSil" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank"></a>
  <a href="https://github.com/nATHANnSil" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a> 
- <a href="https://github.com/nATHANnSil" target="_blank"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank"></a> 
  <a href="https://github.com/nATHANnSil" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
  <a href="https://github.com/nATHANnSil" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/nATHANnSil" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/nATHANnSil" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
   <a href="https://github.com/nATHANnSil" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
    
 
@@ -37,16 +35,16 @@
  <!--- ## 🐱‍💻My PC Specs
  
  DESKTOP: Custom
--   Processor: Intel Core i3-10100F (3.6GHz)
--   Graphics: Palit NVIDIA GTX 1050 Ti 4GB
--   Motherboard: MSI B560M-A Pro 
--   Memory: 8 GB GEIL Super Luce RGB 3600MHz and 8GB Atermiter 2666MHz
--   SSD: King Spec 128GB
+-   Processor: AMD Ryzen 5 5600X
+-   Graphics: MSI AMD Raedon RX 6600
+-   Motherboard: MSI B550 Gaming Plus 
+-   Memory: 2x Kingston Fury Renegade 3200 Mhz
+-   SSD: M.2 XPG Spectrix 512GB, SATA ZADAK 512GB
 -   HDD: Seagate 2TB
--   Power Supply: CORSAIR VS 450, 80 Plus White, 450W
--   Mouse: Logitech G203 
--   Keyboard: Target TEC-9 RGB
--   OS: Windows 10
+-   Power Supply: CORSAIR CV 65
+-   Mouse: Logitech G502 HERO 
+-   Keyboard: Redragon Broadsword Pro - Switch Brown 
+-   OS: Windows 11
  ---> 
 <!---
 nATHANnSil/nATHANnSil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
