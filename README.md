@@ -1,8 +1,8 @@
-- 👋Hello There! I'm Nathan! I'm 21 years old and I'm from Belo Horizonte - Minas Gerais - Brazil 🇧🇷.
+- 👋 Hello There! I'm Nathan! I'm 21 years old and I'm from Belo Horizonte - Minas Gerais - Brazil 🇧🇷.
 - 👀 I have interest and curiosity in several things, including: airplanes ✈ ,games 🎮 (specially FPS and Racing games), and programming. You can ask me about those things!
+- 📬 If you want talk to me, the ways to do it are below.
 - 👨‍💻 Currently I'm learning Java and Java Script.
-- 🐱‍💻If you want talk to me, the ways to do it are below.
-- 📆I want to work as a Gamer Developer in Canada 🇨🇦, in some years!
+- 📆 I want to work as a Gamer Developer in Canada 🇨🇦, in some years!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathannsil)](https://github.com/nathannsil/github-readme-stats)
 
@@ -51,7 +51,11 @@ nATHANnSil/nATHANnSil is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<!-- https://camo.githubusercontent.com/3e2117f8e7f11eeb55c8f71b9f8e39d7e7767cde7255482915fb9c0df3998083/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c343451717a36674f364a6956563370752f67697068792e676966 --->
+<!-- https://camo.githubusercontent.com/3e2117f8e7f11eeb55c8f71b9f8e39d7e7767cde7255482915fb9c0df3998083/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c343451717a36674f364a6956563370752f67697068792e676966 
+
+https://pt.linkedin.com/pulse/fazendo-seu-github-decolar-jo%C3%A3o-victor-silva
+
+--->
 
 
 
