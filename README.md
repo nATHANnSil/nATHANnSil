@@ -31,7 +31,7 @@
  <a href="nATHANn Sil" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a> 
  
  
- <!--- ## 🐱‍💻My PC Specs
+## 🐱‍💻My PC Specs
  
  DESKTOP: Custom
 -   Computer Case: XPG Starker Black
@@ -45,7 +45,7 @@
 -   Mouse: Logitech G502 HERO 
 -   Keyboard: Redragon Broadsword Pro - Switch Brown 
 -   OS: Windows 11
- ---> 
+w
 <!---
 nATHANnSil/nATHANnSil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
