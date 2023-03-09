@@ -1,7 +1,7 @@
 - 👋 Hello There! I'm Nathan! I'm 21 years old and I'm from Belo Horizonte - Minas Gerais - Brazil 🇧🇷.
 - 👀 I have interest and curiosity in several things, including: airplanes ✈ ,games 🎮 (specially FPS and Racing games), and programming. You can ask me about those things!
 - 📬 If you want talk to me, the ways to do it are below.
-- 👨‍💻 Currently I'm learning Java and Java Script.
+- 👨‍💻 Currently I'm learning Java and C#.
 - 📆 I want to work as a Gamer Developer in Canada 🇨🇦, in some years!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathannsil)](https://github.com/nathannsil/github-readme-stats)
