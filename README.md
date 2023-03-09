@@ -1,5 +1,5 @@
-- 👋 Hello There! I'm Nathan! I'm 21 years old and I'm from Belo Horizonte - Minas Gerais - Brazil 🇧🇷.
-- 👀 I have interest and curiosity in several things, including: airplanes ✈ ,games 🎮 (specially FPS and Racing games), and programming. You can ask me about those things!
+- 👋 Hello There! I'm Nathan! I'm 21 years and I'm a software engineering student in Belo Horizonte - Brazil 🇧🇷.
+- 👀 I have interest and curiosity in several things, including: airplanes ✈ ,games 🎮 (specially FPS and Racing games), and programming 🖥️. You can ask me about those things!
 - 📬 If you want talk to me, the ways to do it are below.
 - 👨‍💻 Currently I'm learning Java and C#.
 - 📆 I want to work as a Gamer Developer in Canada 🇨🇦, in some years!
@@ -34,11 +34,12 @@
  <!--- ## 🐱‍💻My PC Specs
  
  DESKTOP: Custom
+-   Computer Case: XPG Starker Black
 -   Processor: AMD Ryzen 5 5600X
 -   Graphics: MSI AMD Raedon RX 6600
 -   Motherboard: MSI B550 Gaming Plus 
 -   Memory: 2x Kingston Fury Renegade 3200 Mhz
--   SSD: M.2 XPG Spectrix 512GB, SATA ZADAK 512GB
+-   SSD: M.2 XPG Spectrix 256GB, SATA ZADAK 512GB
 -   HDD: Seagate 2TB
 -   Power Supply: CORSAIR CV 65
 -   Mouse: Logitech G502 HERO 
