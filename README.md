@@ -10,6 +10,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css)](https://skillicons.dev)
 
+## 🤓Learning/Improving Knowledge
+
+[![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev)
+
+
 ## ☝️Want to learn
 
 <!--- 
