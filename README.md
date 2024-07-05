@@ -1,4 +1,4 @@
-- 👋 Hello There! I'm Nathan! I'm 21 years and I'm a software engineering student in Belo Horizonte - Brazil 🇧🇷.
+- 👋 Hello There! I'm Nathan! I'm 22 years and I'm a software engineering student in Belo Horizonte - Brazil 🇧🇷.
 - 👀 I have interest and curiosity in several things, including: airplanes ✈ ,games 🎮 (specially FPS and Racing games), and programming 🖥️. You can ask me about those things!
 - 📬 If you want talk to me, the ways to do it are below.
 - 👨‍💻 Currently I'm learning Java and Python.
